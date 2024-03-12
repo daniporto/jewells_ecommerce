@@ -32,6 +32,9 @@ npm install react-router-dom
 Frontend => npm start
 Backend => node imdex.js
 ```
+
+Contributors names and contact info
+
 Danielle Porto
 daniportoliver@gmail.com
 
