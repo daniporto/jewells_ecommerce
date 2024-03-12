@@ -1,4 +1,4 @@
-# Jewlls E-Commerce
+# Jewells E-Commerce
 
 Website E-commerce about jewelleries.
 
