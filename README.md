@@ -26,8 +26,6 @@ npm install react-router-dom
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
 Frontend => npm start
 Backend => node imdex.js
